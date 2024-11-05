@@ -32,7 +32,7 @@ tqdm
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vipulraj01/Vuln_Scan
+git clone https://github.com/rolextital/App-Vuln
 cd Vuln_Scan
 ```
 
